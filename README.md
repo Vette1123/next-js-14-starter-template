@@ -20,7 +20,7 @@ You can also find Sadge Vite template [here](https://github.com/Vette1123/vite-s
 
 You need the following installed on your machine:
 
-- [Node.js](https://nodejs.org) (at least version X.X.X)
+- [Node.js](https://nodejs.org) (18.17 or later, the minimum for Next.js 14)
 - [npm](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com) or [pnpm](https://pnpm.io/installation) (preferred)
 
 ### Usage `create-next-app`
